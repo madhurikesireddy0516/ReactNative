@@ -1,0 +1,3 @@
+export const PROFILE_SELECTED = 'PROFILE_SELECTED';
+export const MY_PROFILE = 'MY_PROFILE';
+export const CLEAR_MY_PROFILE = 'CLEAR_MY_PROFILE';
